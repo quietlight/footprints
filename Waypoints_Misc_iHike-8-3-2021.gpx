@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="iHikeGPS NZ - http://www.ihikegps.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+
+<wpt lat="-44.649550" lon="167.935620">
+ <ele>362.000000</ele>
+  <name>Cross River To Campsite</name>
+ <cmt>2021-Feb-18  1:07:52 PM NZDT</cmt>
+ <desc>2021-Feb-18  1:07:52 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.685450" lon="167.051770">
+ <ele>90.000000</ele>
+  <name>Dusky Bit Lost Again On Return</name>
+ <cmt>2020-Jan-26 11:29:12 AM NZDT</cmt>
+ <desc>2020-Jan-26 11:29:12 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.692400" lon="167.039610">
+ <ele>49.000000</ele>
+  <name>Dusky Bit Lost On Return</name>
+ <cmt>2020-Jan-26 10:27:01 AM NZDT</cmt>
+ <desc>2020-Jan-26 10:27:01 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.625900" lon="167.096610">
+ <ele>313.000000</ele>
+  <name>Dusky Going Back</name>
+ <cmt>2020-Jan-26  5:12:42 PM NZDT</cmt>
+ <desc>2020-Jan-26  5:12:42 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.626760" lon="167.096550">
+ <ele>276.000000</ele>
+  <name>Dusky Orange Marker Lost</name>
+ <cmt>2020-Jan-26  5:02:46 PM NZDT</cmt>
+ <desc>2020-Jan-26  5:02:46 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.747870" lon="167.146940">
+ <ele>393.000000</ele>
+  <name>Dusky Pink Tape</name>
+ <cmt>2020-Jan-20  4:20:33 PM NZDT</cmt>
+ <desc>2020-Jan-20  4:20:33 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.626670" lon="167.095530">
+ <ele>252.000000</ele>
+  <name>Dusky Still Going Back</name>
+ <cmt>2020-Jan-26  5:39:00 PM NZDT</cmt>
+ <desc>2020-Jan-26  5:39:00 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.355110" lon="167.547530">
+ <ele>212.000000</ele>
+  <name>Nice Beach</name>
+ <cmt>2021-Jan-04  9:49:52 AM NZDT</cmt>
+ <desc>2021-Jan-04  9:49:52 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-44.666950" lon="167.930290">
+ <ele>240.000000</ele>
+  <name>Pipe Section Starts</name>
+ <cmt>2021-Feb-19 11:47:54 AM NZDT</cmt>
+ <desc>2021-Feb-19 11:47:54 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.346590" lon="167.526140">
+ <ele>199.000000</ele>
+  <name>Rata Camp Spot</name>
+ <cmt>2021-Jan-04  5:22:33 PM NZDT</cmt>
+ <desc>2021-Jan-04  5:22:33 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-44.656190" lon="167.935440">
+ <ele>315.000000</ele>
+  <name>RiverForest Transition</name>
+ <cmt>2021-Feb-18 12:45:40 PM NZDT</cmt>
+ <desc>2021-Feb-18 12:45:40 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-44.661630" lon="167.932100">
+ <ele>276.000000</ele>
+  <name>Start Of Bowen Track Descent</name>
+ <cmt>2021-Feb-18 11:18:44 AM NZDT</cmt>
+ <desc>2021-Feb-18 11:18:44 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.939550" lon="167.682910">
+ <ele>65.000000</ele>
+  <name>Stop For Night Onshore Wind </name>
+ <cmt>2020-Feb-27  5:57:34 PM NZDT</cmt>
+ <desc>2020-Feb-27  5:57:34 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-45.903390" lon="167.674390">
+ <ele>77.000000</ele>
+  <name>Swim</name>
+ <cmt>2020-Feb-27  4:59:14 PM NZDT</cmt>
+ <desc>2020-Feb-27  4:59:14 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-44.659910" lon="167.935100">
+ <ele>383.000000</ele>
+  <name>Track LeavesEnters Riverbed</name>
+ <cmt>2021-Feb-18 11:45:47 AM NZDT</cmt>
+ <desc>2021-Feb-18 11:45:47 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-44.658190" lon="167.933000">
+ <ele>376.000000</ele>
+  <name>Track Takes To RiverForest</name>
+ <cmt>2021-Feb-18 12:28:52 PM NZDT</cmt>
+ <desc>2021-Feb-18 12:28:52 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+</gpx>

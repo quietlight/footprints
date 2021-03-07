@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="iHikeGPS NZ - http://www.ihikegps.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="-46.052820" lon="167.065330">
+ <ele>103.000000</ele>
+  <name>Mouat Trip 2020Feb09  4:06:14</name>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.061380" lon="167.087580">
+ <ele>9.000000</ele>
+  <name>Mouat Trip 5 Disembark</name>
+ <cmt>2020-Feb-10  9:06:46 AM NZDT</cmt>
+ <desc>2020-Feb-10  9:06:46 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.048700" lon="167.041140">
+ <ele>163.000000</ele>
+  <name>Mouat Trip A</name>
+ <cmt>2020-Feb-09  1:43:03 PM NZDT</cmt>
+ <desc>2020-Feb-09  1:43:03 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.049720" lon="167.042700">
+ <ele>128.000000</ele>
+  <name>Mouat Trip B</name>
+ <cmt>2020-Feb-09  2:03:34 PM NZDT</cmt>
+ <desc>2020-Feb-09  2:03:34 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.051050" lon="167.051450">
+ <ele>101.000000</ele>
+  <name>Mouat Trip C</name>
+ <cmt>2020-Feb-09  2:45:03 PM NZDT</cmt>
+ <desc>2020-Feb-09  2:45:03 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.079560" lon="167.074380">
+ <ele>914.000000</ele>
+  <name>Mouat Trip Camerons Camp One</name>
+ <cmt>2020-Feb-10  2:49:26 PM NZDT</cmt>
+ <desc>2020-Feb-10  2:49:26 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.058940" lon="167.089900">
+ <ele>23.000000</ele>
+  <name>Mouat Trip Camp</name>
+ <cmt>2020-Feb-09  8:24:30 PM NZDT</cmt>
+ <desc>2020-Feb-09  8:24:30 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.036320" lon="167.027070">
+ <ele>213.000000</ele>
+  <name>Mouat Trip Cave</name>
+ <cmt>2020-Feb-08  8:04:41 PM NZDT</cmt>
+ <desc>2020-Feb-08  8:04:41 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.051780" lon="167.059910">
+ <ele>119.000000</ele>
+  <name>Mouat Trip D</name>
+ <cmt>2020-Feb-09  3:42:33 PM NZDT</cmt>
+ <desc>2020-Feb-09  3:42:33 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.092700" lon="167.044710">
+ <ele>1004.000000</ele>
+  <name>Mouat Trip Deer Recovery</name>
+ <cmt>2020-Feb-11  9:15:04 AM NZDT</cmt>
+ <desc>2020-Feb-11  9:15:04 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.135410" lon="166.963610">
+ <ele>50.000000</ele>
+  <name>Mouat Trip Descent Lunch</name>
+ <cmt>2020-Feb-12 12:26:40 PM NZDT</cmt>
+ <desc>2020-Feb-12 12:26:40 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.059280" lon="167.089150">
+ <ele>41.000000</ele>
+  <name>Mouat Trip Disembarked</name>
+ <cmt>2020-Feb-08 10:12:39 AM NZDT</cmt>
+ <desc>2020-Feb-08 10:12:39 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.111690" lon="167.216090">
+ <ele>357.000000</ele>
+  <name>Mouat Trip Down Hill Break</name>
+ <cmt>2020-Feb-07  3:17:30 PM NZDT</cmt>
+ <desc>2020-Feb-07  3:17:30 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.052870" lon="167.069050">
+ <ele>73.000000</ele>
+  <name>Mouat Trip E</name>
+ <cmt>2020-Feb-09  4:34:53 PM NZDT</cmt>
+ <desc>2020-Feb-09  4:34:53 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.056480" lon="167.073000">
+ <ele>115.000000</ele>
+  <name>Mouat Trip F</name>
+ <cmt>2020-Feb-09  6:34:45 PM NZDT</cmt>
+ <desc>2020-Feb-09  6:34:45 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.057010" lon="167.080160">
+ <ele>52.000000</ele>
+  <name>Mouat Trip G</name>
+ <cmt>2020-Feb-09  7:31:08 PM NZDT</cmt>
+ <desc>2020-Feb-09  7:31:08 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.040530" lon="167.030440">
+ <ele>222.000000</ele>
+  <name>Mouat Trip Get In</name>
+ <cmt>2020-Feb-08  7:22:23 PM NZDT</cmt>
+ <desc>2020-Feb-08  7:22:23 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.058500" lon="167.084280">
+ <ele>57.000000</ele>
+  <name>Mouat Trip H</name>
+ <cmt>2020-Feb-09  7:56:41 PM NZDT</cmt>
+ <desc>2020-Feb-09  7:56:41 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.051930" lon="167.069550">
+ <ele>83.000000</ele>
+  <name>Mouat Trip Lost</name>
+ <cmt>2020-Feb-08  2:30:24 PM NZDT</cmt>
+ <desc>2020-Feb-08  2:30:24 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.009930" lon="167.325210">
+ <ele>159.000000</ele>
+  <name>Mouat Trip Lunch</name>
+ <cmt>2020-Feb-06  1:07:14 PM NZDT</cmt>
+ <desc>2020-Feb-06  1:07:14 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.101160" lon="167.243970">
+ <ele>187.000000</ele>
+  <name>Mouat Trip Lunch After Wander</name>
+ <cmt>2020-Feb-07 12:46:12 PM NZDT</cmt>
+ <desc>2020-Feb-07 12:46:12 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.113360" lon="167.010250">
+ <ele>986.000000</ele>
+  <name>Mouat Trip Lunch Ridge</name>
+ <cmt>2020-Feb-11  1:09:49 PM NZDT</cmt>
+ <desc>2020-Feb-11  1:09:49 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.092100" lon="167.250870">
+ <ele>176.000000</ele>
+  <name>Mouat Trip Nice Camp Sit</name>
+ <cmt>2020-Feb-07 10:41:57 AM NZDT</cmt>
+ <desc>2020-Feb-07 10:41:57 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.134110" lon="166.979280">
+ <ele>463.000000</ele>
+  <name>Mouat Trip Rata</name>
+ <cmt>2020-Feb-12  9:43:43 AM NZDT</cmt>
+ <desc>2020-Feb-12  9:43:43 AM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.051600" lon="167.053510">
+ <ele>118.000000</ele>
+  <name>Mouat Trip Rest</name>
+ <cmt>2020-Feb-08  4:08:53 PM NZDT</cmt>
+ <desc>2020-Feb-08  4:08:53 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.142060" lon="166.996890">
+ <ele>981.000000</ele>
+  <name>Mouat Trip Tarn Camp</name>
+ <cmt>2020-Feb-11  4:34:09 PM NZDT</cmt>
+ <desc>2020-Feb-11  4:34:09 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.066960" lon="167.294300">
+ <ele>152.000000</ele>
+  <name>Mouat Trip Teal Bay Boat Ride</name>
+ <cmt>2020-Feb-06  1:56:15 PM NZDT</cmt>
+ <desc>2020-Feb-06  1:56:15 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+<wpt lat="-46.224230" lon="166.946500">
+ <ele>-3.000000</ele>
+  <name>Mouat Trip Westies</name>
+ <cmt>2020-Feb-12  6:47:02 PM NZDT</cmt>
+ <desc>2020-Feb-12  6:47:02 PM NZDT</desc>
+ <sym>Waypoint</sym></wpt>
+</gpx>
